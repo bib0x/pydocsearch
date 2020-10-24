@@ -1,0 +1,6 @@
+cheats:
+    -
+        description: "description for the first cheat"
+        data:
+            - first cheat
+            - second cheat

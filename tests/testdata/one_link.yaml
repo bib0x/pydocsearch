@@ -1,0 +1,6 @@
+links:
+    -
+        description: "description of the first link"
+        data:
+            - https://linkone/
+            - https://linktwo/

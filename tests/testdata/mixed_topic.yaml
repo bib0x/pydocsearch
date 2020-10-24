@@ -1,0 +1,21 @@
+cheats:
+    -
+        description: "description for the first cheat"
+        data:
+            - first cheat
+            - second cheat
+
+glossary:
+    -
+        description: "node"
+        data:
+            - set of worker machines
+            - entity composed by kubelet, kube-proxy and pods
+            - can be a physical machine, VM, ...
+
+links:
+    -
+        description: "description of the first link"
+        data:
+            - https://linkone/
+            - https://linktwo/

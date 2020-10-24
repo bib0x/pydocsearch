@@ -1,0 +1,7 @@
+glossary:
+    -
+        description: "node"
+        data:
+            - set of worker machines
+            - entity composed by kubelet, kube-proxy and pods
+            - can be a physical machine, VM, ...

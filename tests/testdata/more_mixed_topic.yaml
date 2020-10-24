@@ -1,0 +1,34 @@
+cheats:
+    -
+        description: "description for the first cheat"
+        data:
+            - first cheat
+            - second cheat
+    -
+        description: "description for the second cheat"
+        data:
+            - first cheat
+            - second cheat
+
+glossary:
+    -
+        description: "word_1"
+        data:
+            - simple definition
+    -
+        description: "word_2"
+        data:
+            - simple definition
+            - more definition context or example
+
+links:
+    -
+        description: "description of the first link"
+        data:
+            - https://linkone/
+            - https://linktwo/
+    -
+        description: "blog or tutorials"
+        data:
+            - https://linkone/
+            - https://linktwo/
